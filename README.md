@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I am currently learning more about full-stack development and product design and marketing
+- 🌱 I am currently learning more about full-stack development
 - 💬 Ask me about **Typescript/React/Express/Node.js**
 - 📫 How to reach me: [@JohnWmm](https://twitter.com/JohnWmm) on Twitter
 - 😄 Pronouns: Stay hungry, Stay foolish
