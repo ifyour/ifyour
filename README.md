@@ -1,20 +1,19 @@
 ### Hi there 👋
 
-<p align="center">
-  <a href="https://mingming.dev">Blog</a> •
-  <a href="https://twitter.com/JohnWmm">Twitter</a>
-</p>
-
 - 🌱 I am currently learning more about full-stack development and product design and marketing
 - 💬 Ask me about **Javascript/Typescript/React/Express/Node.js**
 - 📫 How to reach me: [@JohnWmm](https://twitter.com/JohnWmm) on Twitter
 - 😄 Pronouns: Stay hungry, Stay foolish
 - ⚡ Fun fact: Big Fan of the :zap: emoji
 
+
+
 **📝 Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
+
 
 📊 **Weekly development breakdown**
 
