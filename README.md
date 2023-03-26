@@ -11,6 +11,7 @@
 **📝 Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [Hello, blog](/posts/hello-blog)
 <!-- BLOG-POST-LIST:END -->
 
 
