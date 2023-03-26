@@ -14,5 +14,3 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: https://mingming.dev/feed.xml
-          committer_email: 41898282+github-actions[bot]@users.noreply.github.com
-          committer_username: GitHub Actions[Bot]
