@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img style="max-width: 250px" align="right" src="https://github-readme-stats.vercel.app/api?username=ifyour&show_icons=true&theme=dark&hide_title=true&hide=contribs,prs&include_all_commits=true&count_private=true" alt="ifyour's github stats"/>
+<img   align="right" src="https://github-readme-stats.vercel.app/api?username=ifyour&show_icons=true&theme=dark&card_width=280px&hide_title=true&hide=contribs,prs&include_all_commits=true&count_private=true" alt="ifyour's github stats"/>
 
 
 - 🌱 I am currently learning more about full-stack development
