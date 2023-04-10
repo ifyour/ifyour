@@ -20,7 +20,7 @@
 
 📊 **Weekly development breakdown** 
 
-[![wakatime](https://wakatime.com/badge/user/d2bc2102-a53a-4e4f-93d0-a8cbf4be2db4.svg)](https://wakatime.com/@d2bc2102-a53a-4e4f-93d0-a8cbf4be2db4)
+<!-- [![wakatime](https://wakatime.com/badge/user/d2bc2102-a53a-4e4f-93d0-a8cbf4be2db4.svg)](https://wakatime.com/@d2bc2102-a53a-4e4f-93d0-a8cbf4be2db4) -->
 
 <!--START_SECTION:waka-->
 
