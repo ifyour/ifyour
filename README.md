@@ -1,15 +1,13 @@
 ### Hi there 👋
 
-
 <img style="width: 350px" align="right" src="https://github-readme-stats.vercel.app/api?username=ifyour&show_icons=true&theme=dark&card_width=280px&hide_title=true&hide=contribs,prs&include_all_commits=true&count_private=true" alt="ifyour's github stats"/>
 
 
-- 🌱 I am currently learning more about full-stack development
-- 💬 Ask me about **Typescript/React/Express/Node.js**
-- 📫 How to reach me: [@JohnWmm](https://twitter.com/JohnWmm) on Twitter
-- 😄 Motto: Stay hungry, Stay foolish
-- ⚡ Fun fact: Big Fan of the :zap: emoji
-
+- 🌱  I am learning full-stack development
+- 💬  Ask me about **Typescript/React/Express/Node.js**
+- 📫  How to reach me: [@JohnWmm](https://twitter.com/JohnWmm)
+- 😄  Motto: Stay hungry, Stay foolish
+- ⚡  Fun fact: Big Fan of the :zap: emoji
 
 
 **📝 Latest Blog Posts**
