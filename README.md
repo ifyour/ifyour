@@ -4,7 +4,7 @@
 
 
 - 🌱  I am learning full-stack development
-- 💬  Ask me about **Typescript/React/Express/Node.js**
+- 💬  Ask me about **Typescript/React/Hono.js/Node.js**
 - 📫  How to reach me: [@JohnWmm](https://twitter.com/JohnWmm)
 - 😄  Motto: Stay hungry, Stay foolish
 - ⚡  Fun fact: Big Fan of the :zap: emoji
