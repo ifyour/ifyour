@@ -7,7 +7,7 @@
 - 💬  Ask me about **Typescript/React/Hono.js/Node.js**
 - 📫  How to reach me: [@JohnWmm](https://twitter.com/JohnWmm)
 - 😄  Motto: Stay hungry, Stay foolish
-- ⚡  Fun fact: Big Fan of the :zap: emoji
+- ⚡  Fun fact: Big Fan of the emoji
 
 
 **📝 Latest Blog Posts**
