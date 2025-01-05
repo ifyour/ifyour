@@ -25,9 +25,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Nginx configuration file   38 mins         ████████████████████████░   96.61 %
-Other                      1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 %
-HTML                       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
+Nginx configuration file   38 mins         ██████████████████▒░░░░░░   73.06 %
+Other                      7 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.32 %
+Text                       6 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.13 %
+HTML                       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
 ```
 
 <!--END_SECTION:waka-->
